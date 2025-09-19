@@ -9,7 +9,7 @@ body{
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F );
+    background: linear-gradient(#000000,#f1494c 50%,#f1494c 60%,#000000 );
 }
 
 .background-image {
@@ -74,7 +74,7 @@ footer{
         transform: translateX(0);
         top: 80px;
         font-size: 1rem;
-        width: 100px;
+        width: 200px;
         text-align: center;
         margin: 0;
     }
